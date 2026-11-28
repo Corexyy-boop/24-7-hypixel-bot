@@ -1,9 +1,9 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "ORVYTHMC",
+    "username": "OWNER",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "Nepalihypixel.aternos.me",
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": false,
-      "password": "DarkZyroxback"
+      "password": "Corexyy"
     },
     "anti-afk": {
       "enabled": true,
@@ -32,8 +32,8 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to SoloPlayz!",
-        "Want Cheap Premium Server? https://discord.gg/VRMUnDkf95"
+        "THIS IS THE BEST NEPALI HYPIXEL",
+        "THIS SERVER IS CREATED BY COREXYY DAMN"
       ]
     },
     "chat-log": true,
